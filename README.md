@@ -1,5 +1,5 @@
-# Hide-and-seek
-Hide-and-seek is a simple game to help you gain familiarity with Python programming language 
+# Peek-A-Boo
+Peek-A-Boo is a simple game to help you gain familiarity with Python programming language 
 The game will display a square grid, with the columns
 labeled with letters, and the rows with numbers.
 Elements within the grid will be associated with pairs
